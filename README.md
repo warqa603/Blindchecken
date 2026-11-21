@@ -1,11 +1,11 @@
 # Privacy Policy for Blind Chicken
 
 **Application Name:** Blind Chicken  
-**Package Name:** `com.blind_bird`  
+**Package Name:** `com.blindchicken.game`  
 **Developer:** warqa603  
 **Effective Date:** November 20, 2026  
 **Contact Email:** [bestmodels603@gmail.com](mailto:bestmodels603@gmail.com)  
-**Hosted Policy URL:** `https://warqa603.github.io/blind_chicken/` (or `https://warqa603.github.io/privacy-policy.html`)
+**Hosted Policy URL:** `https://warqa603.github.io/Blindchecken/`
 
 ---
 
